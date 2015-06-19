@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CSUST</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_other">MyOtherActivity</string>
+    <string name="other_hello_world">Other Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="menus">
+        <item name="s_news">News</item>
+        <item name="s_activities">Activities</item>
+        <item name="s_circle">Circle</item>
+        <item name="forums">Forums</item>
+    </string-array>
+
+</resources>
