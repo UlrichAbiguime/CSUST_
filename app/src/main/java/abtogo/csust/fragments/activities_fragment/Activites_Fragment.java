@@ -25,6 +25,7 @@ public class Activites_Fragment extends Fragment {
         // Inflate the layout for this fragment
         View rootview = inflater.inflate(R.layout.fragment_activites_, container, false);
         // and again
+
         return rootview;
     }
 }
