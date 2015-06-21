@@ -24,7 +24,7 @@ public class Activites_Fragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View rootview = inflater.inflate(R.layout.fragment_activites_, container, false);
-        // add a swipetab fragment.
+        // and again
         return rootview;
     }
 }
