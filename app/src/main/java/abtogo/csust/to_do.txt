@@ -52,3 +52,12 @@
 
    Seulement je peux me faciliter le travail en le divisant et
    taches journalieres.
+
+
+- I also need to make a server up and configure it before
+    starting otherwise, it's dead!
+
+- First make a 魔板 of what i want the final result of
+    my application to be...
+
+- Then i write the server, and i bring them together.
