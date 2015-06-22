@@ -1,0 +1,54 @@
+- News
+    Relativement formelle, seulement des personnes avec des comptes
+    qualifies peuvent emettre des news par rapport le biais de
+    cette application. Utilises par les professeurs et par les
+    autres qui veulent directement aller chercher des informations
+    sures.
+
+- Activities
+    Chaque club, departement aura ses surfaces ou il lancera les
+    activitees et lorsquelles seront validees elles pourront etre
+    vues sur notre applications, decrites et les etudiants auront
+    tout pour s'inscrire ou savoir comment activement prendre
+    par a ca.
+
+- Circle
+    Tous les etudiants de l'universite pouront donc avoir des cer-
+    cles d'amis ou ils pourront discuter, tout comme google.
+    1. Un cercle general qui est celui de tous les etudiants de
+    l'ecole... tout le monde poste et s'amuse, commente, get fun.
+    2. Une pannoplie d'autres cercles crees a la volee, ce sera
+    en fait comme une passoire pour determiner quels amis est ce
+    que tu peux voir, avec qui est ce que tu peux discuter et
+    consors...
+
+
+- Forums
+    Des forums pour discuter des problemes sur l'universites,
+    des questions clees, tout le monde peut y venir et donner
+    son avis.
+
+- Options: 同学
+    Quand on clique sur un etudiants, par rapport a la facon dont on
+    clique, on peut voir ses informations ou commencer une discussion
+    - chat avec lui.
+    Si on on peut entrer ds differents types de salons, chose qui sera
+    un peut plus comme un mode qui te permettra de te defouler par rapport
+    a ce que tu as en tete actuellement, ou a un sujet qui te tiens a coeur.
+
+
+
+- Pour realiser ceci,
+    - Fragment... Interchangment de fragments.
+    - Bases de donnees.
+    - Chatting ... Notifications.
+    - Base de donnees
+    - Comment realiser activement un cercle...
+
+
+
+
+   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+   Seulement je peux me faciliter le travail en le divisant et
+   taches journalieres.

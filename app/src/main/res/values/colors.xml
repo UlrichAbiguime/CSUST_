@@ -5,4 +5,5 @@
     <color name="primary_dark">#ff9349d3</color>
     <color name="accent">#ffffeefb</color>
     <color name="cool_white">#ffffffff</color>
+    <color name="gear">#ff4cff8f</color>
 </resources>

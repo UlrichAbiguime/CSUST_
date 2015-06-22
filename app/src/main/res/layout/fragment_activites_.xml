@@ -4,4 +4,10 @@
     android:orientation="vertical"
     tools:context="abtogo.csust.fragments.activities_fragment.Activites_Fragment" >
 
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/m_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
 </LinearLayout>
